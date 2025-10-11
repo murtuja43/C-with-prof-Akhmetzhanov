@@ -149,134 +149,163 @@ int main()
     
     
     //prbolem 10: Begin10 (from book)
-    /*
-    int a, b, sum, difference, product, quotient, sqa, sqb;
-    cout<<"a= ";
-    cin>>a;
-    cout<<"b= ";
-    cin>>b;
+     /*
+     int a, b, sum, difference, product, quotient, sqa, sqb;
+     cout<<"a= ";
+     cin>>a;
+     cout<<"b= ";
+     cin>>b;
+     
+     sqa= pow(a, 2);
+     sqb= pow(b, 2);
+     
+     sum = sqa + sqb;
+     difference= sqa - sqb;
+     product= sqa * sqb;
+     quotient= sqa / sqb;
     
-    sqa= pow(a, 2);
-    sqb= pow(b, 2);
-    
-    sum = sqa + sqb;
-    difference= sqa - sqb;
-    product= sqa * sqb;
-    quotient= sqa / sqb;
+    cout <<"sum= "<<sum<<endl;
+    cout <<"difference= "<<difference<<endl;
+    cout <<"product= "<<product<<endl;
+    cout <<"quotient= "<<quotient<<endl;
+
+     
+     return 0;
      */
+    
     
     //    skip 5 for next ones
-
     
     
-    //prbolem 15: Begin10 (from book)
+    
+    //prbolem 15: Begin15 (from book)
     /*
-    float S, R, D, L, pi;
-    pi = 3.14;
-
-    cout << "S = ";
-    cin >> S;
-
-    R = sqrt(S / pi);
-    D = 2 * R;
-    L = 2 * pi * R;
-
-    cout << "Diameter (D) = " << D << endl;
-    cout << "Circumference (L) = " << L << endl;
-
-    return 0;
+     float S, R, D, L, pi;
+     pi = 3.14;
+     
+     cout << "S = ";
+     cin >> S;
+     
+     R = sqrt(S / pi);
+     D = 2 * R;
+     L = 2 * pi * R;
+     
+     cout << "Diameter (D) = " << D << endl;
+     cout << "Circumference (L) = " << L << endl;
+     
+     return 0;
      */
     
-    //prbolem 20: Begin10 (from book)
+    //prbolem 20: Begin20 (from book)
     /*
-    float x1, y1, x2, y2, d;
-
-    cout << "x1 = ";
-    cin >> x1;
-    cout << "y1 = ";
-    cin >> y1;
-    cout << "x2 = ";
-    cin >> x2;
-    cout << "y2 = ";
-    cin >> y2;
-
-    d = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
-
-    cout << "Distance = " << d << endl;
-
-    return 0;
-     */
-    
-    
-    //prbolem 25: Begin10 (from book)
-    /*
-    float x, y;
-    cout << "x = ";
-    cin >> x;
-
-    y = 3 * pow(x, 6) - 6 * pow(x, 2) - 7;
-
-    cout << "y = " << y << endl;
-
-    return 0;
+     float x1, y1, x2, y2, d;
+     
+     cout << "x1 = ";
+     cin >> x1;
+     cout << "y1 = ";
+     cin >> y1;
+     cout << "x2 = ";
+     cin >> x2;
+     cout << "y2 = ";
+     cin >> y2;
+     
+     d = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+     
+     cout << "Distance = " << d << endl;
+     
+     return 0;
      */
     
     
-    //prbolem 30: Begin10 (from book)
+    //prbolem 25: Begin25 (from book)
     /*
-    float alpha_rad, alpha_deg, pi;
-    pi = 3.14;
-
-    cout << "Alpha (in radians) = ";
-    cin >> alpha_rad;
-
-    alpha_deg = (alpha_rad * 180) / pi;
-
-    cout << "Alpha (in degrees) = " << alpha_deg << endl;
-
-    return 0;
-     */
-    
-    //prbolem 35: Begin10 (from book)
-    /*
-    float V, U, T1, T2, S;
-
-    cout << "V (boat speed) = ";
-    cin >> V;
-    cout << "U (river speed) = ";
-    cin >> U;
-    cout << "T1 (time on lake) = ";
-    cin >> T1;
-    cout << "T2 (time against current) = ";
-    cin >> T2;
-
-    S = V * T1 + (V - U) * T2;
-
-    cout << "Total distance (S) = " << S << " km" << endl;
-
-    return 0;
+     float x, y;
+     cout << "x = ";
+     cin >> x;
+     
+     y = 3 * pow(x, 6) - 6 * pow(x, 2) - 7;
+     
+     cout << "y = " << y << endl;
+     
+     return 0;
      */
     
     
-    //prbolem 40: Begin10 (from book)
+    //prbolem 30: Begin30 (from book)
     /*
-    float A1, B1, C1, A2, B2, C2, D, x, y;
-
-    cout << "A1 = "; cin >> A1;
-    cout << "B1 = "; cin >> B1;
-    cout << "C1 = "; cin >> C1;
-    cout << "A2 = "; cin >> A2;
-    cout << "B2 = "; cin >> B2;
-    cout << "C2 = "; cin >> C2;
-
-    D = A1 * B2 - A2 * B1;
-    x = (C1 * B2 - C2 * B1) / D;
-    y = (A1 * C2 - A2 * C1) / D;
-
-    cout << "x = " << x << endl;
-    cout << "y = " << y << endl;
-
-    return 0;
+     float alpha_rad, alpha_deg, pi;
+     pi = 3.14;
+     
+     cout << "Alpha (in radians) = ";
+     cin >> alpha_rad;
+     
+     alpha_deg = (alpha_rad * 180) / pi;
+     
+     cout << "Alpha (in degrees) = " << alpha_deg << endl;
+     
+     return 0;
      */
+    
+    //prbolem 35: Begin35 (from book)
+    /*
+     float V, U, T1, T2, S;
+     
+     cout << "V (boat speed) = ";
+     cin >> V;
+     cout << "U (river speed) = ";
+     cin >> U;
+     cout << "T1 (time on lake) = ";
+     cin >> T1;
+     cout << "T2 (time against current) = ";
+     cin >> T2;
+     
+     S = V * T1 + (V - U) * T2;
+     
+     cout << "Total distance (S) = " << S << " km" << endl;
+     
+     return 0;
+     */
+    
+    
+    //prbolem 40: Begin40 (from book)
+    /*
+     float A1, B1, C1, A2, B2, C2, D, x, y;
+     
+     cout << "A1 = "; cin >> A1;
+     cout << "B1 = "; cin >> B1;
+     cout << "C1 = "; cin >> C1;
+     cout << "A2 = "; cin >> A2;
+     cout << "B2 = "; cin >> B2;
+     cout << "C2 = "; cin >> C2;
+     
+     D = A1 * B2 - A2 * B1;
+     x = (C1 * B2 - C2 * B1) / D;
+     y = (A1 * C2 - A2 * C1) / D;
+     
+     cout << "x = " << x << endl;
+     cout << "y = " << y << endl;
+     
+     return 0;
+     
+    
+    //    20practice
+    
+     float x1, x2, y1, y2, d;
+     
+     cout << "x1= ";
+     cin >> x1;
+     cout << "x2= ";
+     cin >> x2;
+     cout << "y1= ";
+     cin >> y1;
+     cout << "y2= ";
+     cin >> y2;
+     
+     d = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
+     cout << "Distance D = "<<d<<endl;
+     
+     return 0;
+     */
+    
     
 }
