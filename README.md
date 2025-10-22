@@ -22,3 +22,16 @@
 <h3>Solved the questions [1:20:4] </h2>
 <img width="709" alt="Screenshot 2025-03-10 at 3 30 22 PM" src="https://github.com/user-attachments/assets/a8051267-f9f6-4191-b69e-1364290b00ee" />
 <img width="709" alt="Screenshot 2025-03-10 at 3 30 36 PM" src="https://github.com/user-attachments/assets/83517555-ffba-488b-8f8a-1786c1ecd6e1" />
+
+<h1>For Questions (1-30)</h1>
+<img width="900" height="647" alt="Screenshot 2025-10-22 at 4 45 16 PM" src="https://github.com/user-attachments/assets/80cce81c-572f-4d71-a76d-bdb52192510d" />
+<img width="874" height="693" alt="Screenshot 2025-10-22 at 4 45 31 PM" src="https://github.com/user-attachments/assets/f9fd9da6-266c-4c06-9787-336d65220d7d" />
+<img width="898" height="629" alt="Screenshot 2025-10-22 at 4 45 49 PM" src="https://github.com/user-attachments/assets/1a605be4-2455-4f75-99cf-c488a02ee8ab" />
+<img width="788" height="559" alt="Screenshot 2025-10-22 at 4 46 01 PM" src="https://github.com/user-attachments/assets/b4e98235-d225-4ee3-9841-14dd42abc9e8" />
+
+
+
+
+
+
+
