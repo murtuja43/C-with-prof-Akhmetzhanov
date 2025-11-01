@@ -30,8 +30,7 @@
 <img width="788" height="559" alt="Screenshot 2025-10-22 at 4 46 01 PM" src="https://github.com/user-attachments/assets/b4e98235-d225-4ee3-9841-14dd42abc9e8" />
 
 
-
-
-
+<h1>While Qustions (1-30)</h1>
+<img width="900" height="629" alt="Screenshot 2025-11-01 at 12 48 20 PM" src="https://github.com/user-attachments/assets/e51693d2-f017-449f-a40e-35f6fd5db1c1" />
 
 
