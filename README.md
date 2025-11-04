@@ -28,6 +28,8 @@
 <img width="874" height="693" alt="Screenshot 2025-10-22 at 4 45 31 PM" src="https://github.com/user-attachments/assets/f9fd9da6-266c-4c06-9787-336d65220d7d" />
 <img width="898" height="629" alt="Screenshot 2025-10-22 at 4 45 49 PM" src="https://github.com/user-attachments/assets/1a605be4-2455-4f75-99cf-c488a02ee8ab" />
 <img width="788" height="559" alt="Screenshot 2025-10-22 at 4 46 01 PM" src="https://github.com/user-attachments/assets/b4e98235-d225-4ee3-9841-14dd42abc9e8" />
+<img width="910" height="327" alt="Screenshot 2025-11-04 at 7 20 34 PM" src="https://github.com/user-attachments/assets/e39a3f9d-cbc5-404c-9d75-73c13b375134" />
+
 
 
 <h1>While Qustions (1-30)</h1>
