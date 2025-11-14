@@ -40,4 +40,14 @@
 
 
 
+<h1>Series Qustions (1-40)</h1>
+<img width="886" height="713" alt="Screenshot 2025-11-14 at 3 23 21 PM" src="https://github.com/user-attachments/assets/71abedce-4341-400e-be9e-b6541e09df0b" />
+<img width="927" height="682" alt="Screenshot 2025-11-14 at 3 23 42 PM" src="https://github.com/user-attachments/assets/de7bfb2e-a670-4abb-90f6-325e4decfa6d" />
+<img width="887" height="683" alt="Screenshot 2025-11-14 at 3 24 01 PM" src="https://github.com/user-attachments/assets/b48a49ce-9105-4c50-b138-63bb747b0fa4" />
+<img width="889" height="715" alt="Screenshot 2025-11-14 at 3 24 32 PM" src="https://github.com/user-attachments/assets/5debc67e-660f-4a82-827e-b833687ca56d" />
+
+
+
+
+
 
