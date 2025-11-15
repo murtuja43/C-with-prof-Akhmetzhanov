@@ -48,6 +48,18 @@
 
 
 
+<h1>Array Qustions (1-140)</h1>
+
+<img width="724" height="585" alt="Screenshot 2025-11-15 at 1 24 01 PM" src="https://github.com/user-attachments/assets/5bac5c62-12f3-4165-b3e8-435b1452abdc" />
+<img width="741" height="610" alt="Screenshot 2025-11-15 at 1 24 22 PM" src="https://github.com/user-attachments/assets/a9bfce7e-aaff-4b2a-981e-ad8753c58a29" />
+<img width="745" height="607" alt="Screenshot 2025-11-15 at 1 24 31 PM" src="https://github.com/user-attachments/assets/25b59d38-ec07-4224-9e75-d758320fdaba" />
+<img width="745" height="643" alt="Screenshot 2025-11-15 at 1 24 44 PM" src="https://github.com/user-attachments/assets/18f4c223-dab5-43e6-b2f9-355d0e477ec9" />
+<img width="735" height="587" alt="Screenshot 2025-11-15 at 1 24 56 PM" src="https://github.com/user-attachments/assets/47cfc01c-ebfd-4453-8d02-7b5c95490207" />
+<img width="764" height="601" alt="Screenshot 2025-11-15 at 1 25 07 PM" src="https://github.com/user-attachments/assets/adae8b0c-ca5a-4eaf-8687-59749f6c1ec6" />
+<img width="751" height="590" alt="Screenshot 2025-11-15 at 1 25 17 PM" src="https://github.com/user-attachments/assets/87a23271-5bcf-47af-84fc-58813094ba47" />
+<img width="756" height="574" alt="Screenshot 2025-11-15 at 1 25 33 PM" src="https://github.com/user-attachments/assets/45804ef1-85ad-41ae-bc25-21a3fd9b9294" />
+
+
 
 
 
